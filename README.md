@@ -7,13 +7,18 @@ Ce sera surement difficile au debut mais ne vous inquiétez pas, c'est génial.
 Vous allez devoir reproduire une TODO-list.
 
 Vous avez à votre disposition des fichiers, créés automatiquement 
-par une commande :   
+par une commande :
 
 ```bash
   npx create-expo-app AwesomeProject
 ```
 
 ## Run 
+Tout d'abord : 
+
+```bash
+  npm install
+```
 
 Pour lancer votre projet utilisez : 
 
