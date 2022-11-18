@@ -1,3 +1,4 @@
+
 # TODO React Native
 
 Durant ce workshop vous allez voir les rudiments du React Native.
@@ -11,6 +12,21 @@ par une commande :
 ```bash
   npx create-expo-app AwesomeProject
 ```
+
+## Run 
+
+Pour lancer votre projet utilisez : 
+
+```bash
+  npm start
+```
+
+Bien évidemment vous remarquerez que coder une application mobile
+sans le voir sur un télephone c'est moins pratique. 
+
+Installez Expo sur votre l'App Store ou sur Google play. 
+Connectez vous au même réseau que votre ordinateur, 
+puis scannez le QR code.
 
 ## Documentation
 
